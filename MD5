@@ -1,0 +1,16 @@
+fe20c4d83147327ca8ad49f497fd8b92 *DESCRIPTION
+7d8952b07d717ead266a7cc878da6db0 *LICENSE
+cd7037012789d91402c3e8c23e5c1243 *NAMESPACE
+566a7d8c3acf0bf1c5194750a21637f0 *NEWS.md
+8efec6c452a8010477231ac3bec0e841 *R/encoding_data.R
+fba4ab1b38a270fa16d730df9fd469a5 *R/get_data_from_izmir.R
+25bee35537ce71bf4a217723ad9128e1 *R/list_data_names.R
+649d18dab571b36a084e88b875ad3ed7 *R/search_data_by_keyword.R
+d5462396875d56a00f843ae4da693901 *R/welcome.R
+433f7bf7851065195385983313979fcc *README.md
+97912041d785c2bce844dfea603c5b16 *man/encoding_data.Rd
+87bd5e56e277007bc29fd73bc2f7f752 *man/get_data_from_izmir.Rd
+f1f05e63505392543d6d6c2da940e596 *man/list_data_names.Rd
+b5c98eb6d3a128761dad17d7f2244648 *man/search_data_by_keyword.Rd
+2a81b95722f9a9e26ee3b1203fb1784c *tests/testthat.R
+cce962c55a823592664b6597aeea70d9 *tests/testthat/test-check_output.R
